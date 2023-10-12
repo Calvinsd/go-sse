@@ -1,0 +1,2 @@
+# go-sse
+SSE server
